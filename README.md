@@ -28,7 +28,7 @@
    pip install -r requirements.txt
    ```
    
-3. Настройте бота в Discord (очень просто):
+3. **Настройте бота в Discord**:
 - Зайдите в Developer Portal → "New Application".
 - Скопируйте его Client ID (он понадобится в config.json).
 - Поставьте ему иконку.
