@@ -1,0 +1,12 @@
+{
+  "client_id": "1374360048666677410",
+  "icon_folder": "icons",
+  "custom_icon_key": "custom_icon",
+  "default_icon_key": "default_icon",
+  "save_crystals_path": "C:\\Users\\рус\\Desktop\\Новая папка\\fangames\\K3\\Data\\saveData2",
+  "crystal_offset": 0,
+  "crystal_size": 2,
+  "crystal_endian": "big",
+  "crystal_divisor": 2,
+  "update_interval": 4
+}
