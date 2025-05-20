@@ -13,7 +13,7 @@
 1. **Windows 10/11** (т. к. идите нахуй)  
 2. **Python 3.7+**  
 3. **Аккаунт Discord** и **приложение (Application)** в [Discord Developer Portal](https://discord.com/developers/applications)  
-4. Клонированный или скачанный скрипт (например, `rich_presence.py`) и соседний `config.json`  
+4. Очевидно все это скачать и закинуть в какую-нибудь папку
 
 ---
 
