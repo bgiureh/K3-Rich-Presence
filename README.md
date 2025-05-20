@@ -26,8 +26,8 @@
    Откройте PowerShell или командную строку в папке со скриптом и выполните:
    ```bash
    pip install -r requirements.txt
-3. Настройте приложение в Discord
+   ```
+3. Настройте бота в Discord (очень просто):
 - Зайдите в Developer Portal → "New Application".
-- Запомните его Client ID (он понадобится в config.json).
-- Вкладка “Rich Presence” → “Art Assets” загрузите иконки (например, default.png и custom.png).
-- Назовите их ключами (default_icon_key, custom_icon_key в конфиге).
+- Скопируйте его Client ID (он понадобится в config.json).
+- Ставите ему иконку
